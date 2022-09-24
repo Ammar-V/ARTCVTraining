@@ -1,3 +1,3 @@
 # ARTCVTraining
 
-What's up
+Testing rules.
