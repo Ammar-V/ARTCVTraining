@@ -1,4 +1,4 @@
-# ARTCVTraining
+# ARTCVTraining - Satvick was here
 
 
 ## Overview of basic Git Onboarding
